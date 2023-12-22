@@ -4,11 +4,8 @@
 <br>
 <br>
 
-# Today I Learn - notion Blog
-### 📕DeepDive<br>
-  https://www.notion.so/fun-blog/JavaScript-05556ff8349543cb8ccf7d07ccf8a254
-### 📗미니프로젝트<br>
-  https://www.notion.so/fun-blog/NOTE-d0f4f3b9f8574aff9738314e04043f7a
+# 🍎Today I Learn - notion Blog
+https://www.notion.so/fun-blog/young-s-Blog-ad4aa1d36a3046238326b7d636322355
 <br>
 
 ![soyoung's github stats](https://github-readme-stats.vercel.app/api?username=thdud2262&show_icons=true)
